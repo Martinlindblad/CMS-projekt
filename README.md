@@ -1,3 +1,6 @@
-Gruppnamn: The Sniveling Squirrels
-Gruppmedlemmar: Martin Lindal, Burhan Budak, Xiaorui Wang, Victor Lindh
-länk till själva GitHub-repositoriet.
+Gruppnamn:
+<b>The Sniveling Squirrels</b>
+Gruppmedlemmar:
+<b>Martin Lindal, Burhan Budak, Xiaorui Wang, Victor Lindh</b>
+Repo-länk: 
+https://github.com/Victor-Lindh/CMS-projekt
