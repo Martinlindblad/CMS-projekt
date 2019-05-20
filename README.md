@@ -6,7 +6,7 @@ Gruppnamn:
 <br>
 Gruppmedlemmar:
 <br>
-<b>Martin Lindal, Burhan Budak, Xiaorui Wang, Victor Lindh</b>
+<b>Martin Lindblad, Burhan Budak, Xiaorui Wang, Victor Lindh</b>
 <br>
 Repo-länk:
 <br>
